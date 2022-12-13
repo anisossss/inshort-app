@@ -1,5 +1,5 @@
 # Inshorts
-
+### ✨ [Live Demo](https://inshort-app.vercel.app/)
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -10,5 +10,4 @@
 
 🎙 A Conversational Voice Controlled React News Application using Alan AI. 
 > Provides users with latest news on voice command making it possible to control the entire application on voice. Users can get news by any terms, sources, news channel, or any country eventually saving a lot of time.
-### ✨ [Live Demo](https:///)
 
